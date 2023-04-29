@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> add-head
 h1 {
 font-size: 40px;
 font-family: Arial
@@ -14,6 +17,7 @@ p {
 font-size: 14px;
 font-family: Arial
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 h1 {
@@ -42,10 +46,16 @@ tr:nth-child(odd) {background-color: #f2f2f2;}
 =======
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> add-head
 
 div {
     background-color: darkcyan;
 text-align: right;
+<<<<<<< HEAD
 }
 >>>>>>> add-header
 >>>>>>> 60810d4afc724e6a15ff33f789ca796a833c700e
+=======
+}
+>>>>>>> add-head
