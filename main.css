@@ -1,61 +1,19 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> add-head
-h1 {
-font-size: 40px;
-font-family: Arial
-}
-h2 {
-font-size: 25px;
-font-family: Arial
-}
-h3 {
-font-family: Arial
-}
-p {
-font-size: 14px;
-font-family: Arial
-}
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-h1 {
- font-size: 40px;
- font-family: Arial
-}
-h2 {
- font-size: 25px;
- font-family: Arial
-}
-h3 {
- font-family: Arial
-}
-p {
- font-size: 14px;
- font-family: Arial
-}
-th, td {
- padding: 8px;
- text-align: left;
- border-bottom: 1px solid #ddd;
- font-family: Arial
-}
-tr:nth-child(odd) {background-color: #f2f2f2;}
->>>>>>> add-table
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> add-head
 
-div {
-    background-color: darkcyan;
-text-align: right;
-<<<<<<< HEAD
+
+h1 {
+  font-size: 40px;
+  font-family: Arial
 }
->>>>>>> add-header
->>>>>>> 60810d4afc724e6a15ff33f789ca796a833c700e
-=======
+h2 {
+  font-size: 25px;
+  font-family: Arial
 }
->>>>>>> add-head
+h3 {
+  font-family: Arial
+}
+p {
+  font-size: 14px;
+  font-family: Arial
+}
+
+
